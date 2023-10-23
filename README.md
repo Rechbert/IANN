@@ -1,2 +1,2 @@
 # IANN
-IANN with Tensorflow Repository
+Implementing Artificial Neural Networks with Tensorflow Repository
